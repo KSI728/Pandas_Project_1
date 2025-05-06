@@ -1,3 +1,23 @@
 # Pandas_Project_1
-This project was initiated to raise awareness about wildfires. 
-Using the Pandas library, we conducted data analysis to examine the causes and regions where wildfires frequently occur.
+
+- Pandas 라이브러리를 활용하여 산불 데이터 분석을 수행하였습니다.
+- 화재 발생 원인, 화재 발생 시간 및 진화 시간 피해 규모, 지역, 날짜를 분석하였습니다.
+- 저는 그 중에서 지역을 중심으로, 시도별 산불 발생 빈도, 시도별 대형산불위험예보목록에 대한 분석을 진행하였습니다.
+
+## 🔧 사용한 기술
+
+- Python
+- Pandas
+
+## 📂 활용 데이터셋 출처
+
+- 2015 ~ 2024 산림청 산불통계 데이터
+
+## 📂 파일 설명 
+
+- Pandas_Project_1_code.ipynb : Jupyter Notebook 활용한 데이터 분석 코드 
+
+## 🎯 프로젝트 목표 
+
+- 판다스 라이브러리를 활용한 데이터 분석
+- 산불에 대한 경각심 재고
